@@ -1,6 +1,6 @@
 ## About This Project
 
-This project is for the test that I applied for. Its a basic project that have CRUD and REST APIS for one model.
+This project is for the test that I applied for. Its a basic project that have CRUD and REST APIS.
 
 ## Installation
 
